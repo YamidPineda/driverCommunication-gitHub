@@ -1,2 +1,5 @@
 yamid eduardo pineda sanchez
 esto es un ejemplo de remopistorio remoto
+
+git push para emplujar o subir nuevos cambios al repositorio remoto
+
